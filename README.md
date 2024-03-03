@@ -1,6 +1,8 @@
 # Regensburg-Pediatric-Appendicitis
-Cleaning and exploring the data from Children’s Hospital St. Hedwig in Regensburg, Germany in order to build a model to predict the appendicitis diagnosis
-https://archive.ics.uci.edu/dataset/938/regensburg+pediatric+appendicitis
+Cleaning and exploring the data from Children’s Hospital St. Hedwig in Regensburg, Germany in order to build a model to predict the appendicitis diagnosis <br>
+
+https://archive.ics.uci.edu/dataset/938/regensburg+pediatric+appendicitis <br>
+
 This repository holds the data from a cohort of **pediatric patients with suspected appendicitis admitted with abdominal pain to Children’s Hospital St. Hedwig in Regensburg, Germany, between 2016 and 2021**. <br>
 
 Each patient has (potentially multiple) ultrasound (US) images, aka views, tabular data comprising laboratory, physical examination, scoring results and ultrasonographic findings extracted manually by the experts, and three target variables, namely, diagnosis, management and severity. <br>
