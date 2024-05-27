@@ -1,5 +1,5 @@
 # Regensburg-Pediatric-Appendicitis
-Cleaning and exploring the data from Children’s Hospital St. Hedwig in Regensburg, Germany in order to build a model to predict the appendicitis diagnosis <br>
+Cleaning and exploring the data from Children’s Hospital St. Hedwig in Regensburg, Germany in order to build a model for the appendicitis diagnosis <br>
 
 https://archive.ics.uci.edu/dataset/938/regensburg+pediatric+appendicitis <br>
 
